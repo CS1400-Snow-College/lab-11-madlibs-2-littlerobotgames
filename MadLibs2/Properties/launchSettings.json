@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MadLibs2": {
+      "commandName": "Project",
+      "commandLineArgs": "\"story1.txt\" \"story2.txt\""
+    }
+  }
+}
